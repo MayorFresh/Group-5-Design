@@ -1,0 +1,15 @@
+.navbar-nav > li{
+  padding-left:50px;
+  padding-right:50px;
+  background-color:black;
+}
+.first{
+	text-align:center;
+	background-color:black;
+	color:white;
+	  font-family: "Times New Roman";
+	 background-image: url('index.jpg');
+padding-left:50px;
+  padding-right:50px;
+	  
+}    
